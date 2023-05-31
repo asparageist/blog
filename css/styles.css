@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  font-size: large;
+}
+
+h2 {
+  color: black;
+  font-size: medium;
+}
+
+.blog1 {
+  background-color: darkblue;
+}
+
+.blog2 {
+  background-color: blue;
+}
+
+.about {
+  background-color: lightblue;
+}
